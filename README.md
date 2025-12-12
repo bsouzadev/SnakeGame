@@ -73,11 +73,10 @@ make clean
 
 Aqui estão algumas imagens do jogo em ação:
 
-Você pode substituir os links caminho/para/sua/imagem1.png e caminho/para/sua/imagem2.png pelos caminhos relativos dos arquivos de imagem no seu repositório.
-
-## 🧑‍💻 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório, enviar pull requests ou abrir issues para qualquer dúvida ou sugestão.
+<p align="center">
+  <img src="imgREADME/01.jpg" width="200">
+  <img src="imgREADME/02.jpg" width="200">
+</p>
 
 ## 🔧 Dependências
 
