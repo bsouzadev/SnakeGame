@@ -76,6 +76,9 @@ Aqui estão algumas imagens do jogo em ação:
 <p align="center">
   <img src="imgREADME/01.jpg" width="200">
   <img src="imgREADME/02.jpg" width="200">
+  <img src="imgREADME/03.jpg" width="200">
+  <img src="imgREADME/04.jpg" width="200">
+  <img src="imgREADME/05.jpg" width="200">
 </p>
 
 ## 🔧 Dependências
